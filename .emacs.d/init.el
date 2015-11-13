@@ -122,15 +122,6 @@
 
 
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/elisp"))
-;;(require 'twittering-mode)
-;;(setq twittering-account-authorization 'authorized)
-;;(setq twittering-oauth-access-token-alist
-;;     '(("oauth_token" . "152617739-deFpkPVjdbMzw51g1fNN1RJt6EbfDkQnS0svyPRb")
-;;	("oauth_token_secret" . "WMxxgSxZMfM5zlJsPSFn6fqWcLDe6isiUqapHJX0NHOgX")
-;;	("user_id" . "152617739")
-;;	("Screen_name" . "Jack_and_Rozz")))
-
-
 
 
 
